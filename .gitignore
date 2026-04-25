@@ -1,0 +1,9 @@
+custom_dataset/
+__pycache__/
+*.pt
+*.pth
+*.log
+*.tmp
+*.cache
+.env
+node_modules/

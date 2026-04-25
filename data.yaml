@@ -1,0 +1,5 @@
+path: F:\Minor Project\Project\custom_dataset  # e.g., C:/Users/YourName/project/custom_dataset (use your full path!)
+train: images/train
+val: images/val
+nc: 1  # Number of classes
+names: ['person']  # Class name
